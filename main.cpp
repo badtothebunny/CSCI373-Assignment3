@@ -1,5 +1,5 @@
 //This program utilizies a Singly Linked List for Game Entries and Scores.
-//Programmer: Maria Psomas :)
+//Programmer: Badtothebunny
 
 #include <iostream>
 #include "GameEntry.h"
@@ -38,3 +38,4 @@ int main(int argc, char** argv)
 	cout<<"That concludes my testing. Thank you for using my program. :)"<<endl;
 	return 0;
 }
+
