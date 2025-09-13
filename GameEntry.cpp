@@ -1,5 +1,5 @@
 //Implementation section of the GameEntry Class
-//Programmer: Maria Psomas :)
+//Programmer: Badtothebunny
 
 #include "GameEntry.h"
 
@@ -36,3 +36,4 @@ void GameEntry::setScore(int nScore)
 {
 	score = nScore;
 }
+
