@@ -1,5 +1,5 @@
 //Implementation section of the Scores Class
-//Programmer: Maria Psomas :)
+//Programmer: Badtothebunny
 
 #include "Scores.h"
 
@@ -95,3 +95,4 @@ void Scores::printAll()
 	}
 	cout<<"NULL"<<endl;
 }
+
